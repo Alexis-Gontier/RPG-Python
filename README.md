@@ -19,4 +19,4 @@ Vous êtes un habitant des bas quartiers d'une mégapole dystopique, qui a connu
 ## 🙇 Author
 #### Membre du Groupe
 - Github Maxime: [@Oomaxime](https://github.com/Oomaxime)
-- Github Maxime: [@Jeck0v](https://github.com/Jeck0v)
+- Github Arnaud: [@Jeck0v](https://github.com/Jeck0v)
